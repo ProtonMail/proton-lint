@@ -4,6 +4,8 @@
   "license": "ISC",
   "author": "Proton Technologies AG",
   "dependencies": {
+    "@typescript-eslint/parser": "^3.1.0",
+    "@typescript-eslint/eslint-plugin": "^3.1.0",
     "eslint": "^7.2.0",
     "eslint-config-airbnb": "^18.2.0",
     "eslint-config-airbnb-typescript": "^8.0.2",
@@ -16,8 +18,6 @@
   },
   "description": "Modern eslint config for a more civilized age",
   "peerDependencies": {
-    "@typescript-eslint/parser": "^3.1.0",
-    "@typescript-eslint/eslint-plugin": "^3.1.0",
     "csstype": "*",
     "prettier": "2.x",
     "typescript": "*"
