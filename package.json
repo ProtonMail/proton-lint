@@ -18,7 +18,6 @@
   },
   "description": "Modern eslint config for a more civilized age",
   "peerDependencies": {
-    "csstype": "*",
     "prettier": "2.x",
     "typescript": "*"
   },
